@@ -5,7 +5,9 @@ const navigate = [
     { name: 'Dashboard', href: '/', current: true },
     { name: 'Counter Arrow', href: 'counter', current: false },
     { name: 'Region Api', href: 'region', current: false },
-    { name: 'Region Api Upload', href: 'upload', current: false }
+    { name: 'Region Api Upload', href: 'upload', current: false },
+    { name: 'Employee Redux', href: 'EmpRedux', current: false },
+    { name: 'Employee Redux Tool', href: 'EmpTool', current: false }
 ]
 export default function Dashboard() {
     return (
