@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Materi Web Design link : https://drive.google.com/file/d/1KEztGf_thf1xsJb-F6jwOHfvd8J1Zb5H/view?usp=share_link [Cuma Bisa di Lihat]
 
 Materi ReactJS Fundamental link : https://drive.google.com/file/d/1o4mBUsJtR8aK9zmWRH5bomUrp3sE3mr7/view?usp=share_link [Cuma Bisa di Lihat]
+
 Materi Redux link : https://drive.google.com/file/d/1nicQjv2kW1eSvW3GRp8iIvmCo6XHnqR1/view?usp=share_link [Cuma Bisa di Lihat]
 
 ## Available Scripts
