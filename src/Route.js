@@ -6,6 +6,7 @@ import RegionViewApi from './RegionView/RegionViewApi'
 import RegionView from './RegionUpload/RegionView'
 import EmployeeRedux from './ViewRedux/EmployeeREdux'
 import EmployeeReduxTool from './ViewRedux/EmployeeReduxTool'
+import RegionSaga from './SagaView/RegionSaga'
 export default function Route() {
     return useRoutes([
         {
@@ -16,7 +17,8 @@ export default function Route() {
                 { path: 'region', element: <RegionViewApi /> },
                 { path: 'upload', element: <RegionView /> },
                 { path: 'EmpRedux', element: <EmployeeRedux /> },
-                { path: 'EmpTool', element: <EmployeeReduxTool /> }
+                { path: 'EmpTool', element: <EmployeeReduxTool /> },
+                { path: 'Saga', element: <RegionSaga /> }
             ]
         },
         {
