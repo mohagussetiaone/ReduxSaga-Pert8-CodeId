@@ -4,7 +4,6 @@ import "./index.css";
 import App from "./App";
 import { BrowserRouter } from "react-router-dom";
 import { Provider } from "react-redux";
-// import storeToolkit from "./ReduxToolkit/storeToolkit";
 import store from "./CustomerSaga/Store";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
